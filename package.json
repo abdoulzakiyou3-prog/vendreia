@@ -1,0 +1,14 @@
+{
+  "name": "vendreia",
+  "version": "1.0.0",
+  "description": "SaaS IA pour créer des contenus de vente",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cors": "^2.8.5",
+    "openai": "^5.12.0"
+  }
+}
